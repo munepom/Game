@@ -16,7 +16,7 @@ X.O
 .XO
 XOO
 
-# Game has not competed
+# Game has not completed
 .O.
 .X.
 O..
