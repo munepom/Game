@@ -5,6 +5,23 @@ Input:
 "X" (for X cell)
 "." (for empty cell)
 
+Examples:
+# O win
 OX.
 .O.
 X.O
+
+# X win
+..X
+.XO
+XOO
+
+# Game has not competed
+.O.
+.X.
+O..
+
+# No Game
+OOO
+OOO
+OOO
